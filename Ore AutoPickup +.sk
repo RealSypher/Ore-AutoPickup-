@@ -1,0 +1,103 @@
+#====================================================================================
+#Skript made by Sypher
+#
+#░█████╗░██╗░░░██╗████████╗░█████╗░██████╗░██╗░█████╗░██╗░░██╗██╗░░░██╗██████╗░░░░░░░░
+#██╔══██╗██║░░░██║╚══██╔══╝██╔══██╗██╔══██╗██║██╔══██╗██║░██╔╝██║░░░██║██╔══██╗░░██╗░░
+#███████║██║░░░██║░░░██║░░░██║░░██║██████╔╝██║██║░░╚═╝█████═╝░██║░░░██║██████╔╝██████╗
+#██╔══██║██║░░░██║░░░██║░░░██║░░██║██╔═══╝░██║██║░░██╗██╔═██╗░██║░░░██║██╔═══╝░╚═██╔═╝
+#██║░░██║╚██████╔╝░░░██║░░░╚█████╔╝██║░░░░░██║╚█████╔╝██║░╚██╗╚██████╔╝██║░░░░░░░╚═╝░░
+#╚═╝░░╚═╝░╚═════╝░░░░╚═╝░░░░╚════╝░╚═╝░░░░░╚═╝░╚════╝░╚═╝░░╚═╝░╚═════╝░╚═╝░░░░░░░░░░░░
+#Do not edit code if you do not know what you're doing.
+#Customize if you want
+#Made for Mineity
+#====================================================================================
+
+on break of stone:
+  cancel event
+  set event-block to air
+  give player stone
+
+on break of cobblestone:
+  cancel event
+  set event-block to air
+  give player stone
+
+on break of coal ore:
+  cancel event
+  set event-block to air
+  give player coal
+
+on break of coal block:
+  cancel event
+  set event-block to air
+  give player coal block
+
+on break of iron ore:
+  cancel event
+  set event-block to air
+  give player iron ingot
+
+on break of iron block:
+  cancel event
+  set event-block to air
+  give player iron block
+
+on break of gold ore:
+  cancel event
+  set event-block to air
+  give player gold ingot
+
+on break of gold block:
+  cancel event
+  set event-block to air
+  give player gold block
+
+on break of redstone ore:
+  cancel event
+  set event-block to air
+  give player 8 redstone dust
+
+on break of redstone block:
+  cancel event
+  set event-block to air
+  give player redstone block
+
+on break of diamond ore:
+  cancel event
+  set event-block to air
+  give player diamond
+
+on break of diamond block:
+  cancel event
+  set event-block to air
+  give player diamond block
+
+on break of emerald ore:
+  cancel event
+  set event-block to air
+  give player emerald
+
+on break of emerald block:
+  cancel event
+  set event-block to air
+  give player emerald block
+
+on break of netherrack:
+  cancel event
+  set event-block to air
+  give player netherrack
+
+on break of ancient debris:
+  cancel event
+  set event-block to air
+  give player ancient debris
+
+on break of nether quartz ore:
+  cancel event
+  set event-block to air
+  give player quartz
+
+on break of warped wart block:
+  cancel event
+  set event-block to air
+  give player warped wart block
